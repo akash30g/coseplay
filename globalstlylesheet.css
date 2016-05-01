@@ -31,7 +31,6 @@ margin-right: auto;
 	margin-bottom: 0;
 	margin-left: 110px;
 	margin-right: 110px;
-	margin-right: 110px;
 	font-size: 12px;
 	text-align: center;
 	margin-top: 0;
@@ -113,3 +112,20 @@ text-decoration: underline;
 	border-top: 1px #000000 solid;
 	border-bottom: 1px #000000 solid;
 }
+#main-title {
+margin-bottom: 0;
+
+
+font-size: 12px;
+letter-spacing: 5px;
+text-align: center;
+margin-top: 0;
+padding-bottom: 80px;
+font-weight: bold;
+padding-top: 80px;
+padding-right: 10px;
+
+color: #ffffff;
+
+}
+
